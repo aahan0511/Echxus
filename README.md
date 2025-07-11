@@ -7,10 +7,17 @@
 ### **`Echxus`**
 **Echxus** is a **server-based** messaging app for _Anand Niketan Satellite_.
 
+</div>
+
+> [!WARNING]
+> Echxus is archived and no longer maintained. It is superseded by EchoWS (soon coming into production)
+
 ---
 
 <br><br>
 
+<div align="center">
+  
 # **`Contents`**
 </div>
 
